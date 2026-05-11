@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Ngan!&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ThuyNgan.Tran!&fontSize=70&animation=fadeIn" alt="Header" />
   
   <h1>🚀 Backend Developer | Learning System Design | High-Performance Systems Architect</h1>
   <p>
@@ -96,11 +96,11 @@
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=react&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=react&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
@@ -115,7 +115,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/tranthuyngan2516/tranthuyngan2516/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
