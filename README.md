@@ -120,7 +120,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Fun Fact: Commit Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" alt="snake animation" />
