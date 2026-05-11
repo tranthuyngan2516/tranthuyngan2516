@@ -96,17 +96,17 @@
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=vue-dark&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
 
   <br>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=tranthuyngan2516&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=3366FF&fire=3366FF&currStreakLabel=3366FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tranthuyngan2516&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
