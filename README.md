@@ -96,11 +96,11 @@
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
 
   <br>
