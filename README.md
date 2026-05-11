@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ThuyNgan.Tran!&fontSize=70&animation=fadeIn" alt="Header" />
   
-  <h1>🚀 Backend Developer | Learning System Design | High-Performance Systems Architect</h1>
+  <h1>Backend Developer | Learning System Design | High-Performance Systems Architect</h1>
   <p>
     <img src="https://komarev.com/ghpvc/?username=tranthuyngan2516&color=3366FF" alt="Profile Views" />
   </p>
@@ -11,13 +11,14 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting scalable backend architectures with **Node.js (NestJS)**, **Java Spring Boot**, and **Oracle Database**.
-* 📚 **Learning Next:** Deep diving into **System Design**, **Data Structures & Algorithms**, and **Design Patterns** to build robust systems.
-* 🤝 **Collaborations:** Open to discussions on **API Optimization**, **Microservices**, and **Database Performance Tuning**.
+- 🎯 **Current Focus:** Crafting scalable backend architectures with **Node.js (NestJS)**, **Java Spring Boot**, and **Oracle Database**.
+- 📚 **Learning Next:** Deep diving into **System Design**, **Data Structures & Algorithms**, and **Design Patterns** to build robust systems.
+- 🤝 **Collaborations:** Open to discussions on **API Optimization**, **Microservices**, and **Database Performance Tuning**.
 
 <br>
 
 ### 📧 Connect with Me
+
 <div align="center">
   <a href="https://github.com/tranthuyngan2516">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -37,6 +38,7 @@
 ### 🚀 Tech Universe
 
 #### **Backend & Languages**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -47,6 +49,7 @@
 </div>
 
 #### **Frontend & Frameworks**
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -55,6 +58,7 @@
 </div>
 
 #### **Database & Security**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -62,6 +66,7 @@
 </div>
 
 #### **Tools & Platforms**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -79,6 +84,7 @@
 ---
 
 ### 📊 GitHub Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthuyngan2516&theme=react-dark&hide_border=true&area=true" />
 </div>
@@ -114,6 +120,7 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
