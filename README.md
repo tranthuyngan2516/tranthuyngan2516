@@ -79,7 +79,7 @@
 ### 🔧 My Full Stack & Tools Icons
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,java,spring,html,css,bootstrap,nuxtjs,oracle,mysql,git,github,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,java,spring,html,css,bootstrap,nuxtjs,git,github,docker,postman,vercel,linux&perline=8" />
 </div>
 
 ---
