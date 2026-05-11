@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ThuyNgan.Tran!&fontSize=70&animation=fadeIn" alt="Header" />
   
   <h1>Backend Developer | Learning System Design | High-Performance Systems Architect</h1>
+  <h3>🌌 Welcome to my universe!</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=tranthuyngan2516&color=3366FF" alt="Profile Views" />
   </p>
