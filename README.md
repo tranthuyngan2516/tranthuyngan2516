@@ -12,8 +12,8 @@
 
 ### 💻 About Me
 
-- 🎯 **Current Focus:** Crafting scalable backend architectures with **Node.js (NestJS)**, **Java Spring Boot**, and **Oracle Database**.
-- 📚 **Learning Next:** Deep diving into **System Design**, **Data Structures & Algorithms**, and **Design Patterns** to build robust systems.
+- 🎯 **Current Focus:** Crafting scalable backend architectures with **Node.js (NestJS)**, **Java Spring Boot**, and **PostgreSQL / Oracle / Redis**.
+- 📚 **Learning Next:** Deep diving into **System Design**, **High-Performance Architecture**, and **Distributed Systems**.
 - 🤝 **Collaborations:** Open to discussions on **API Optimization**, **Microservices**, and **Database Performance Tuning**.
 
 <br>
@@ -49,37 +49,46 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </div>
 
-#### **Frontend & Frameworks**
+#### **Databases, Caching & ORM**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
-</div>
-
-#### **Database & Security**
-
-<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
 </div>
 
-#### **Tools & Platforms**
+#### **Frontend & UI**
 
 <div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+#### **DevOps, Tools & Architecture**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </div>
 
 ---
 
-### 🔧 My Full Stack & Tools Icons
+### 🔧 Full Stack & Tools Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,java,spring,html,css,bootstrap,nuxtjs,git,github,docker,postman,vercel,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,java,spring,postgres,redis,react,vue,nuxtjs,tailwind,bootstrap,docker,linux,git,github,postman&perline=9" />
 </div>
 
 ---
@@ -87,7 +96,9 @@
 ### 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranthuyngan2516&theme=react-dark&hide_border=true&area=true" />
+  <a href="https://github.com/tranthuyngan2516">
+    <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=tranthuyngan2516&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -97,24 +108,24 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tranthuyngan2516&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+    <img src="https://github-profile-trophy-xi.vercel.app/?username=tranthuyngan2516&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
   </a>
   
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthuyngan2516&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthuyngan2516&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
 
   <br>
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tranthuyngan2516&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=tranthuyngan2516&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
@@ -123,9 +134,13 @@
 ### 🐍 Fun Fact: Commit Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/tranthuyngan2516/tranthuyngan2516/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer" />
 </div>
