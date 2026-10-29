@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ThuyNgan.Tran!&fontSize=70&animation=fadeIn" alt="Header" />
   
-  <h1>Backend Developer | Learning System Design | High-Performance Systems Architect</h1>
-  <h3>🌌 Welcome to my universe!</h3>
+  <h1>Junior Backend Developer</h1>
+  <h3>🌱 Passionate about building reliable APIs & learning clean architecture</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=tranthuyngan2516&color=3366FF" alt="Profile Views" />
   </p>
@@ -12,9 +12,10 @@
 
 ### 💻 About Me
 
-- 🎯 **Current Focus:** Crafting scalable backend architectures with **Node.js (NestJS)**, **Java Spring Boot**, and **PostgreSQL / Oracle / Redis**.
-- 📚 **Learning Next:** Deep diving into **System Design**, **High-Performance Architecture**, and **Distributed Systems**.
-- 🤝 **Collaborations:** Open to discussions on **API Optimization**, **Microservices**, and **Database Performance Tuning**.
+- 🎯 **Primary Focus:** Building RESTful APIs and backend services with **Java (Spring Boot)** and **Node.js (NestJS / TypeScript)**.
+- 🗄️ **Databases:** Working with **PostgreSQL** and **Oracle**, handling data persistence with **Prisma** and **TypeORM**.
+- 📚 **Currently Learning:** Deepening knowledge in **OOP, Data Structures & Algorithms**, and writing clean, maintainable code.
+- 🚀 **Seeking:** **Fresher / Junior Backend Developer** opportunities to learn from experienced engineers and contribute to real-world products.
 
 <br>
 
@@ -36,59 +37,45 @@
 
 ---
 
-### 🚀 Tech Universe
+### 🛠️ Tech Stack
 
 #### **Backend & Languages**
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </div>
 
-#### **Databases, Caching & ORM**
+#### **Databases & ORM**
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
 </div>
 
-#### **Frontend & UI**
+#### **Tools & Workflow**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+#### **Frontend (Familiar)**
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-#### **DevOps, Tools & Architecture**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</div>
-
----
-
-### 🔧 Full Stack & Tools Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,java,spring,postgres,redis,react,vue,nuxtjs,tailwind,bootstrap,docker,linux,git,github,postman&perline=9" />
 </div>
 
 ---
