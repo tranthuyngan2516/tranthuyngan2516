@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ThuyNgan.Tran!&fontSize=70&animation=fadeIn" alt="Header" />
   
-  <h1>Junior Backend Developer</h1>
+  <h1>Fresher Backend Developer</h1>
   <h3>🌱 Passionate about building reliable APIs & learning clean architecture</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=tranthuyngan2516&color=3366FF" alt="Profile Views" />
